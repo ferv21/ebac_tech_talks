@@ -1,6 +1,10 @@
 @use '_hero';
 @use '../components/_infos-bar';
 @use '../components/_button';
+@use 'event';
+@use '_variaveis';
+
+
 *{
     box-sizing: border-box;
     margin: 0;
